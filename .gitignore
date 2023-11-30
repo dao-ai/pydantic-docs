@@ -36,7 +36,7 @@ test.py
 # Documentation files
 /docs/changelog.md
 /docs/theme/mkdocs_run_deps.html
-/site/
+# /site/
 /site.zip
 
 # Project-specific files
